@@ -1,0 +1,32 @@
+{
+    "version": "1.0.1",
+    "name": "com.icsfl.rfsmart.honeywell",
+    "cordova_name": "cordova-honeywell",
+    "description": "Cordova/Phonegap plugin that consumes the Honeywell Barcode Scanner API ",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rcordial/cordova-honeywell.git"
+    },
+    "cordova": {
+        "id": "com.icsfl.rfsmart.honeywell",
+        "platforms": [
+          "android"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova",
+        "phonegap",
+        "android",
+        "scanner",
+        "barcode",
+        "honeywell"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
